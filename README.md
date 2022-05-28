@@ -4,8 +4,8 @@ CryptoAlgo is a simple android app that encrypts a message using DES encryption 
 
 ## Installation
 
-coming soon
+Coming soon.
 
 ## Demonstation
 
-![cryptoalgovideo](https://user-images.githubusercontent.com/41881743/170846323-a9cf088e-705b-4f84-97b1-f9c16448c260.gif)
+![cryptoalgovideosmall](https://user-images.githubusercontent.com/41881743/170846437-d06bf6b7-ee42-42a8-b784-1dec41f0ff11.gif)
